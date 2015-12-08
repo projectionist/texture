@@ -1,6 +1,6 @@
 # Texture
 
-Writes converts images from whatever format to the texture format for projectionist
+Converts images from imagemagick-supported formats to a simple to process texture format.
 
 File format:
 
